@@ -1,7 +1,6 @@
 # ember-engine-demo
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This repository follows the [`ember engine`](https://www.bignerdranch.com/blog/is-your-ember-app-too-big-split-it-up-with-ember-engines/) guide.
 
 ## Prerequisites
 
